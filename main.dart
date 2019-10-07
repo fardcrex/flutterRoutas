@@ -19,3 +19,5 @@ class MyApp extends StatelessWidget {
   }
 }
 
+//path_provider: ^0.4.1
+//  image_picker: ^0.4.4
